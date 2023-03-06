@@ -1,0 +1,9 @@
+*-debug.log
+*-error.log
+.env.test
+/.nyc_output
+/dist
+/lib
+/tmp
+node_modules
+newrelic_agent.log
